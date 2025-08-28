@@ -1,5 +1,8 @@
 # Mini Hash & Password Utility
 
+|<img width="1280" height="640" alt="h1" src="https://github.com/user-attachments/assets/b3ee4716-7f75-4b5a-813b-5d854212a4bc" />|
+|---|
+
 A lightweight, local desktop application built with **Python (Tkinter)**.  
 Features hashing utilities and a secure password generator with DE/EN language support.
 
